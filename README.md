@@ -3,7 +3,18 @@ Self-motivated and Enthusiastic Full Stack Developer transitioned from Merchandi
 
 ## Top Technologies:
 ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB) ![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC) ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) ![Html5 Badge](https://img.shields.io/badge/-Html5-DD4B25?style=for-the-badge&labelColor=black&logo=html5&logoColor=DD4B25) ![CSS3 Badge](https://img.shields.io/badge/-Css3-28AD8?style=for-the-badge&labelColor=black&logo=css3&logoColor=28A4D8) ![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)
-
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+<img src="https://img.shields.io/badge/javascript%20-%8a6d3b.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> 
+<img src="https://img.shields.io/badge/mysql-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white"> 
+<br>
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" /> 
 
 [![Jen's github stats](https://github-readme-stats.vercel.app/api?username=jencaza33&theme=tokyonight&show_icons=true)](https://github.com/jencaza33/github-readme-stats)
 
